@@ -1,4 +1,4 @@
-# Shelter-Animal-Outcomes1
+# Shelter-Animal-Outcomes
 Using a dataset of intake information including breed, color, sex, and age from the Austin Animal Center, we should predict the outcome for each animal.
 The objective of this project is to predict the outcome of animals placed in shelters given features such as the animal’s age, breed, and color.  There are 5 possible outcomes for each animal (shown in figure #) with euthanasia being the worst outcome.  From the predictions, the shelter hopes to be able to determine which animals are likely to be euthanized as well as find trends into what features increases the chance for adoption.  This provides a chance for shelters to make an effort to aid animals with a low chance of adoption.  The overall goal is to decrease the yearly number of animals euthanized.
 
